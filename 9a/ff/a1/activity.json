@@ -1,0 +1,18 @@
+{
+  "id": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "branch": "main",
+  "classification": "other",
+  "title": "splits a list into fixed-size chunks.",
+  "summary": "",
+  "commits": [
+    "9affa160cdb8c1688c76e2d01a2479086fe3917a"
+  ],
+  "since_sha": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "until_sha": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "cognitive_friction_score": 0.96000004,
+  "ai_attributed": true,
+  "attribution_pct": 1.0,
+  "zombie": false,
+  "endorsement_status": "unendorsed",
+  "audited_at": "2026-04-27T22:11:45Z"
+}
