@@ -1,0 +1,18 @@
+{
+  "id": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "branch": "main",
+  "classification": "other",
+  "title": "constrains a value within a min/max range.",
+  "summary": "",
+  "commits": [
+    "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe"
+  ],
+  "since_sha": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "until_sha": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "cognitive_friction_score": 0.96000004,
+  "ai_attributed": true,
+  "attribution_pct": 1.0,
+  "zombie": false,
+  "endorsement_status": "unendorsed",
+  "audited_at": "2026-04-27T22:16:15Z"
+}
