@@ -1,0 +1,21 @@
+{
+  "id": "5cabcfd1c027d618e4cd5fd4d540f3979f8d7ea3",
+  "branch": "main",
+  "title": "some lorem ipsum changes via claude",
+  "summary": "",
+  "commits": [
+    "5cabcfd1c027d618e4cd5fd4d540f3979f8d7ea3"
+  ],
+  "since_sha": "5cabcfd1c027d618e4cd5fd4d540f3979f8d7ea3",
+  "until_sha": "5cabcfd1c027d618e4cd5fd4d540f3979f8d7ea3",
+  "cognitive_friction_score": 0.16000001,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 8,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": []
+}

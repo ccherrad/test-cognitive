@@ -1,0 +1,27 @@
+{
+  "id": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "branch": "main",
+  "title": "splits a list into fixed-size chunks.",
+  "summary": "",
+  "commits": [
+    "9affa160cdb8c1688c76e2d01a2479086fe3917a"
+  ],
+  "since_sha": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "until_sha": "9affa160cdb8c1688c76e2d01a2479086fe3917a",
+  "cognitive_friction_score": 0.568,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 7,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": [
+    {
+      "file": "chunk.py",
+      "complexity": 1,
+      "doc_gap": 1.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "aa64beeb6d9aee1b8e2078181b79eab746385437",
+  "branch": "main",
+  "title": "recursively flattens deeply nested lists.",
+  "summary": "",
+  "commits": [
+    "aa64beeb6d9aee1b8e2078181b79eab746385437"
+  ],
+  "since_sha": "aa64beeb6d9aee1b8e2078181b79eab746385437",
+  "until_sha": "aa64beeb6d9aee1b8e2078181b79eab746385437",
+  "cognitive_friction_score": 0.592,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 13,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": [
+    {
+      "file": "flatten.py",
+      "complexity": 4,
+      "doc_gap": 1.0
+    }
+  ]
+}

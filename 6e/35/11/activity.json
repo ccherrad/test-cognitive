@@ -1,0 +1,21 @@
+{
+  "id": "6e35111b97ec61cb8c22982a0905b54242638cc3",
+  "branch": "main",
+  "title": "chore: force reindex",
+  "summary": "",
+  "commits": [
+    "6e35111b97ec61cb8c22982a0905b54242638cc3"
+  ],
+  "since_sha": "6e35111b97ec61cb8c22982a0905b54242638cc3",
+  "until_sha": "6e35111b97ec61cb8c22982a0905b54242638cc3",
+  "cognitive_friction_score": 0.16000001,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 1,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": []
+}

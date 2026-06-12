@@ -1,0 +1,27 @@
+{
+  "id": "dad8377a5ee06d4e1f5e5931cea9bad9f94ed94a",
+  "branch": "main",
+  "title": "retries a callable on failure with configurable attempts and delay.",
+  "summary": "",
+  "commits": [
+    "dad8377a5ee06d4e1f5e5931cea9bad9f94ed94a"
+  ],
+  "since_sha": "dad8377a5ee06d4e1f5e5931cea9bad9f94ed94a",
+  "until_sha": "dad8377a5ee06d4e1f5e5931cea9bad9f94ed94a",
+  "cognitive_friction_score": 0.592,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 23,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": [
+    {
+      "file": "retry.py",
+      "complexity": 4,
+      "doc_gap": 1.0
+    }
+  ]
+}

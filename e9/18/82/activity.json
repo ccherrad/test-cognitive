@@ -1,0 +1,27 @@
+{
+  "id": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "branch": "main",
+  "title": "constrains a value within a min/max range.",
+  "summary": "",
+  "commits": [
+    "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe"
+  ],
+  "since_sha": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "until_sha": "e91882afa9fdb5fff7d1a437f14c6f6e9f9f65fe",
+  "cognitive_friction_score": 0.568,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 8,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": [
+    {
+      "file": "clamp.py",
+      "complexity": 1,
+      "doc_gap": 1.0
+    }
+  ]
+}

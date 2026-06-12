@@ -1,0 +1,27 @@
+{
+  "id": "445810f6ecc58c5b235cf9ce3ea0b9fa62aba9dd",
+  "branch": "main",
+  "title": "removes duplicates from a list while preserving order.",
+  "summary": "",
+  "commits": [
+    "445810f6ecc58c5b235cf9ce3ea0b9fa62aba9dd"
+  ],
+  "since_sha": "445810f6ecc58c5b235cf9ce3ea0b9fa62aba9dd",
+  "until_sha": "445810f6ecc58c5b235cf9ce3ea0b9fa62aba9dd",
+  "cognitive_friction_score": 0.584,
+  "ai_attributed": false,
+  "attribution_pct": null,
+  "lines_changed": 13,
+  "large_diff": false,
+  "session_duration_secs": null,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-12T20:42:29Z",
+  "hotspots": [
+    {
+      "file": "dedupe.py",
+      "complexity": 3,
+      "doc_gap": 1.0
+    }
+  ]
+}
