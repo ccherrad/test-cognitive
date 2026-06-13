@@ -1,0 +1,27 @@
+{
+  "id": "6abb1a7c3f6667c5bb6af50a8b9f81d45670cb6f",
+  "branch": "main",
+  "title": "adds linked list data structure with append and prepend operations.",
+  "summary": "",
+  "commits": [
+    "6abb1a7c3f6667c5bb6af50a8b9f81d45670cb6f"
+  ],
+  "since_sha": "6abb1a7c3f6667c5bb6af50a8b9f81d45670cb6f",
+  "until_sha": "6abb1a7c3f6667c5bb6af50a8b9f81d45670cb6f",
+  "cognitive_friction_score": 0.592,
+  "ai_attributed": true,
+  "attribution_pct": 1.0,
+  "lines_changed": 41,
+  "large_diff": false,
+  "session_duration_secs": 164,
+  "fatigue": false,
+  "zombie": false,
+  "audited_at": "2026-06-13T19:01:49Z",
+  "hotspots": [
+    {
+      "file": "linked_list.py",
+      "complexity": 4,
+      "doc_gap": 1.0
+    }
+  ]
+}
